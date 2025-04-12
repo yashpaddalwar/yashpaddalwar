@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpaddalwar&label=Profile%20views&color=0e75b6&style=flat" alt="yashpaddalwar" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://yash-paddalwar-portfolio.netlify.app/](https://yashpaddalwar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://yashpaddalwar.netlify.app/](https://yashpaddalwar.netlify.app/)
 
 - 📝 I have my YouTube Channel [https://www.youtube.com/@ataglanceofficial/](https://www.youtube.com/@ataglanceofficial/)
 
