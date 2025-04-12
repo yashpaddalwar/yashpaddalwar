@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-paddalwar-31816a171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-paddalwar-31816a171/" height="30" width="40" /></a>
 <a href="https://kaggle.com/yashajitpaddalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yashajitpaddalwar" height="30" width="40" /></a>
 <a href="https://instagram.com/realyashpaddalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realyashpaddalwar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ataglanceofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ataglanceofficial" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ataglanceofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ataglanceofficial" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yashpaddalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashpaddalwar" height="30" width="40" /></a>
 </p>
 
